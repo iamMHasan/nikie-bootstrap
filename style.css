@@ -1,9 +1,6 @@
 .h1-color{
     color: #FA804C;
 }
-.font-size{
-    font-size: 4rem;
-}
-.top-img{
-    margin-right: 160px;
+header{
+    background: #FFF9F4;
 }
